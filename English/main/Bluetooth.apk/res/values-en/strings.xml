@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ErrorTooManyRequests">Preveliko zahtev je v uporabi. Prosim poskusite kasneje.</string>
+  <string name="ErrorTooManyRequests">Preveliko zahtev je v uporabi. Prosim poskusi kasneje.</string>
   <string name="ack_record">Ack snemanje</string>
   <string name="airplane_error_msg">"Nemogoče uporabiti Bluetooth v Letalskem načinu."</string>
   <string name="airplane_error_title">Letalski način</string>
   <string name="app_name">Bluetooth deljenje</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
-  <string name="auth_notif_message">Vnesite ključ seje za %1$s</string>
+  <string name="auth_notif_message">Vnesi ključ seje za %1$s</string>
   <string name="auth_notif_ticker">OBEX zahteva za preverjanje pristnosti</string>
-  <string name="auth_notif_title">Zahteva kljuća za sejo PBAP</string>
+  <string name="auth_notif_title">Zahteva ključa za sejo PBAP</string>
   <string name="bluetooth_share_file_name">bluetooth_vsebina_deljenja</string>
-  <string name="bpp_authentication_timeout_message">Pretekel čas seje za vnosaključa z %1$s</string>
+  <string name="bpp_authentication_timeout_message">Pretekel čas seje za vnos ključa z %1$s</string>
   <string name="bpp_cancel">Prekliči</string>
   <string name="bpp_main">Bluetooth Tiskanje</string>
   <string name="bpp_printing_button_text">Tiskanje</string>
@@ -26,16 +26,16 @@
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">"na USB pomnilniku ni dovolj prostora, da shranim datoteko iz \"%1$s\""</string>
   <string name="bt_sm_2_2">Potreben prostor: %1$s</string>
-  <string name="bt_toast_1">Datoteko bo prejeta. Preverite napredek v obvestilih.</string>
+  <string name="bt_toast_1">Datoteko bo prejeta. Preveri napredek v obvestilih.</string>
   <string name="bt_toast_2">"Datoteka ne more biti prejeta."</string>
-  <string name="bt_toast_3">Ustavitev prejemanja datoteke iz \"%1$s\"</string>
+  <string name="bt_toast_3">Ustavi prejemanja datoteke iz \"%1$s\"</string>
   <string name="bt_toast_4">Pošiljanje datoteke v \"%1$s\"</string>
   <string name="bt_toast_5">Pošiljanje %1$s datoteke v \"%2$s\"</string>
   <string name="bt_toast_6">Ustavitev pošiljanja datoteke v \"%1$s\"</string>
   <string name="btopp_live_folder">Bluetooth prejet</string>
   <string name="defaultname">Carkit</string>
   <string name="defaultnumber">000000</string>
-  <string name="deleteAll_record">Izbrišite vse posnetke</string>
+  <string name="deleteAll_record">Izbriši vse posnetke</string>
   <string name="delete_record">Izbris posnetkov</string>
   <string name="download_cancel">Ustavitev</string>
   <string name="download_fail_line1">Datoteka ni prejeta</string>
@@ -54,23 +54,23 @@
   <string name="download_title">Prenos datoteke</string>
   <string name="empty_file_notification_sent">Bluetooth: Na daljavo zavrni ničelno dolžino datoteke %1$s</string>
   <string name="enabling_progress_content">Vklapljanje Bluetooth...</string>
-  <string name="enabling_progress_title">Prosim počakajte...</string>
+  <string name="enabling_progress_title">Prosim počakaj...</string>
   <string name="ftp_acceptance_dialog_header">Dostop mape telefona</string>
-  <string name="ftp_acceptance_dialog_title">%1$s Želite dostopati do svoje mape telefona. Omogočiti dostop do %2$s?</string>
-  <string name="ftp_acceptance_timeout_message">Prišlo je do preteka časa, da sprejmete povezavo z %1$s</string>
-  <string name="ftp_authentication_timeout_message">Prišlo je do preteka časa, da vnesete ključ seje z %1$s</string>
-  <string name="ftp_notif_message">Dovolite dostop do korenske mape %1$s</string>
+  <string name="ftp_acceptance_dialog_title">%1$s Želiš dostopati do svoje mape telefona. Omogočiti dostop do %2$s?</string>
+  <string name="ftp_acceptance_timeout_message">Prišlo je do preteka časa, da sprejmeš povezavo z %1$s</string>
+  <string name="ftp_authentication_timeout_message">Prišlo je do preteka časa, da vneseš ključ seje z %1$s</string>
+  <string name="ftp_notif_message">Dovoli dostop do korenske mape %1$s</string>
   <string name="ftp_notif_ticker">OBEX zahteva za preverjanje pristnosti</string>
   <string name="ftp_notif_title">Zahteva ključa seje za FTP</string>
   <string name="ftp_session_key_dialog_header">Potreben je Bluetooth ključ seje</string>
-  <string name="ftp_session_key_dialog_title">Vnesite ključ seje za %1$s</string>
+  <string name="ftp_session_key_dialog_title">Vnesi ključ seje za %1$s</string>
   <string name="hello">Pozdravljen svet, TestnaDejavnost</string>
   <string name="inbound_history_title">"Vhodni: "</string>
   <string name="inbound_noti_title">Bluetooth: Prejete datoteke</string>
-  <string name="incoming_file_confirm_Notification_caption">Želite prejeti dohodne datoteke?</string>
+  <string name="incoming_file_confirm_Notification_caption">Želiš prejeti dohodne datoteke?</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: prejemanje datoteke</string>
   <string name="incoming_file_confirm_cancel">Prekliči</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" želite prejeti %2$s (%3$s). 
+  <string name="incoming_file_confirm_content">"\"%1$s\" želiš prejeti %2$s (%3$s). 
 
  Prejmite datoteko?"</string>
   <string name="incoming_file_confirm_ok">OK</string>
@@ -78,10 +78,10 @@
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">Prenos datoteke</string>
   <string name="incoming_file_toast_msg">Prejemanje datoteke iz druge naprave.</string>
-  <string name="insert_record">Vnesite snemanje</string>
+  <string name="insert_record">Vnesi snemanje</string>
   <string name="localPhoneName">Moje ime</string>
   <string name="map_acceptance_dialog_header">Dostop mape telefona</string>
-  <string name="map_acceptance_dialog_title">%1$s želite dostopati do vaše mape telefona. Omogočite dostop do %2$s?</string>
+  <string name="map_acceptance_dialog_title">%1$s želiš dostopati do svoje mape telefona. Omogočite dostop do %2$s?</string>
   <string name="map_acceptance_timeout_message">Čas za prejemanje datoteke je potekel %1$s</string>
   <string name="map_alert_conn_failed_message">Bluetooth MAP povezava spodletela.</string>
   <string name="map_authentication_timeout_message">Prišlo je do preteka časa za vnos ključa seje %1$s</string>
