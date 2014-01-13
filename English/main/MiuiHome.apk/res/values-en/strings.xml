@@ -1,4 +1,3 @@
-
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_abnormal_state">Nenormalni podatki o računu, poskusi se ponovno prijaviti ali poskusi znova pozneje!</string>
@@ -230,7 +229,7 @@ Za osvežitev virov,prosim ponovno zaženi apl."</string>
   <string name="status_bar_toggle_shutdown">Izklop</string>
   <string name="status_bar_toggle_sync">Sinh</string>
   <string name="status_bar_toggle_sync_auto">Avtomatsko sinh</string>
-  <string name="status_bar_toggle_sync_manual">Ročno sinh</string>
+  <string name="status_bar_toggle_sync_manual">Ročno sinhr</string>
   <string name="status_bar_toggle_syncing">Sinhroniziranje</string>
   <string name="status_bar_toggle_torch">Svetika</string>
   <string name="status_bar_toggle_vibrate">Vibracije</string>
