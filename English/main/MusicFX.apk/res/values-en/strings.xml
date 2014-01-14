@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">MusicFX</string>
-  <string name="bass_boost_strength">Bass boost</string>
-  <string name="ci_extreme">FX Booster</string>
-  <string name="eq_dialog_title">Equalizer</string>
-  <string name="headset_plug">Please plug headphones for these effects</string>
-  <string name="main_toggle_effects_title">Audio effects</string>
-  <string name="no_effects">Effects not available</string>
-  <string name="picker_title">Music effects control panel</string>
-  <string name="pr_dialog_title">Reverb Preset</string>
-  <string name="pr_summary">Additional room reverberation effects</string>
-  <string name="pr_title">Reverb:</string>
-  <string name="setup">Setup</string>
-  <string name="user">User</string>
-  <string name="virtualizer_strength">3D effect</string>
+  <string name="bass_boost_strength">Ojačitev nizkih tonov</string>
+  <string name="ci_extreme">FX Ojačitev</string>
+  <string name="eq_dialog_title">Izenačevalnik</string>
+  <string name="headset_plug">Za vklop teh učinkov prosim prilkjuči slušalke </string>
+  <string name="main_toggle_effects_title">Zvočni učinki</string>
+  <string name="no_effects">Učinki niso na voljo</string>
+  <string name="picker_title">Nadzorna plošča glasbenih učinkov</string>
+  <string name="pr_dialog_title">Reverb prednastavitev</string>
+  <string name="pr_summary">Dodatni predstavitveni sobni učinki</string>
+  <string name="pr_title">Predstavitev:</string>
+  <string name="setup">Nastavitve</string>
+  <string name="user">Uporanik</string>
+  <string name="virtualizer_strength">3D učinki</string>
 </resources>
