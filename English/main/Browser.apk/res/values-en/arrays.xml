@@ -6,25 +6,25 @@
         <item>bing</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
-        <item>Always on</item>
-        <item>On demand</item>
-        <item>Off</item>
+        <item>Vedno vklopljeno</item>
+        <item>Na zahtevo</item>
+        <item>Izklopljeno</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Browser will open to this page</item>
-        <item>Custom</item>
+        <item>Brskalnik bo odprl na tej strani</item>
+        <item>Po meri</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Drobno</item>
+        <item>Majhno</item>
+        <item>Normalno</item>
+        <item>Veliko</item>
+        <item>Največje</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Large</item>
+        <item>Majhno</item>
+        <item>Srednje</item>
+        <item>Veliko</item>
     </string-array>
     <string-array name="pref_development_ua_choices">
         <item>Android</item>
@@ -135,32 +135,32 @@
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
-        <item>Desktop</item>
+        <item>Namizje</item>
         <item>iPhone</item>
         <item>iPad</item>
         <item>Froyo-N1</item>
         <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Page up/down</item>
-        <item>Switch window</item>
+        <item>Stran gor/dol</item>
+        <item>Preklopi okno</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Page forward/backward</item>
-        <item>Switch window</item>
+        <item>Stran naprej/nazaj</item>
+        <item>Preklopi okno</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
-        <item>Never</item>
-        <item>Smart</item>
-        <item>Always</item>
+        <item>Nikoli</item>
+        <item>Pametno</item>
+        <item>Vedno</item>
     </string-array>
     <string-array name="menu_theme_setting">
-        <item>White</item>
-        <item>Yellow</item>
-        <item>Grey</item>
-        <item>Brown</item>
-        <item>Green</item>
-        <item>Blue</item>
-        <item>Dark</item>
+        <item>Belo</item>
+        <item>Rumeno</item>
+        <item>Sivo</item>
+        <item>Rjavo</item>
+        <item>Zeleno</item>
+        <item>Modro</item>
+        <item>Temno</item>
     </string-array>
 </resources>
