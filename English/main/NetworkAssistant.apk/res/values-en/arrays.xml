@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Traffic yesterday</item>
-        <item>Traffic today</item>
-        <item>Traffic this month</item>
+        <item>Poraba včeraj</item>
+        <item>Poraba danes</item>
+        <item>Poraba ta mesec</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday on 2G/3G</item>
-        <item>Today on 2G/3G</item>
-        <item>This month on 2G/3G</item>
-        <item>Yesterday on Wi-Fi</item>
-        <item>Today on Wi-fi</item>
-        <item>This month on Wi-Fi</item>
+        <item>Včeraj na 2G/3G</item>
+        <item>Danes na 2G/3G</item>
+        <item>Ta mesec na 2G/3G</item>
+        <item>Včeraj na Wi-Fi</item>
+        <item>Danes na Wi-fi</item>
+        <item>Ta mesec na Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday 2G/3G</item>
-        <item>Today 2G/3G</item>
-        <item>This month 2G/3G</item>
+        <item>Včeraj 2G/3G</item>
+        <item>Danes 2G/3G</item>
+        <item>Ta mesec 2G/3G</item>
     </string-array>
     <string-array name="traffic_uints">
         <item>" B"</item>
@@ -43,4 +43,3 @@
         <item>9000</item>
     </string-array>
 </resources>
-
