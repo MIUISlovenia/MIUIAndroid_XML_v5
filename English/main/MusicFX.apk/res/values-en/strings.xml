@@ -4,7 +4,7 @@
   <string name="bass_boost_strength">Ojačitev nizkih tonov</string>
   <string name="ci_extreme">FX Ojačitev</string>
   <string name="eq_dialog_title">Izenačevalnik</string>
-  <string name="headset_plug">Za vklop teh učinkov prosim prilkjuči slušalke </string>
+  <string name="headset_plug">Prosim prilkjučite slušalke za te učinke</string>
   <string name="main_toggle_effects_title">Zvočni učinki</string>
   <string name="no_effects">Učinki niso na voljo</string>
   <string name="picker_title">Nadzorna plošča glasbenih učinkov</string>
