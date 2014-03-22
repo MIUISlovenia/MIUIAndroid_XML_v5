@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Telefon/Sporočila shranjevalnik</string>
+  <string name="app_label">Telefon/Shranjevanje sporočil</string>
   <string name="default_cateogry_courier">Kurir</string>
-  <string name="default_cateogry_fraudulent">Lažen</string>
-  <string name="default_cateogry_intermediary">Posredniški</string>
-  <string name="default_cateogry_meal_delivery">Dostava hrane</string>
+  <string name="default_cateogry_fraudulent">Goljufivo</string>
+  <string name="default_cateogry_intermediary">Posrednik</string>
+  <string name="default_cateogry_meal_delivery">Dostava obrokov</string>
   <string name="default_cateogry_sales">Prodaja</string>
   <string name="mms_provider_label">MMS</string>
   <string name="mms_sms_provider_label">Sporočila</string>
